@@ -45,7 +45,7 @@ header .navbar {
 .hero-section {
   height: 100vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-  url(images/coffee_book_glasses_140830_1920x1080.jpg);
+  url(coffee_book_glasses_140830_1920x1080.jpg);
   background-position: center;
   background-size: cover;
   display: flex;
